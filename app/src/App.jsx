@@ -97,6 +97,7 @@ function App() {
 export const Cointainer = styled.div`
 max-width:1200px;
 margin:0 auto;
+padding-bottom:20px;
 `;
 
 const TopCointainer = styled.section`
